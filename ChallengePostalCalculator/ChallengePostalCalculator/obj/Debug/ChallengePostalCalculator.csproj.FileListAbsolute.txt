@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\bin\ChallengePostalCalculator.dll.config
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\bin\ChallengePostalCalculator.dll
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\bin\ChallengePostalCalculator.pdb
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\obj\Debug\ChallengePostalCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\obj\Debug\ChallengePostalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\obj\Debug\ChallengePostalCalculator.dll
+C:\Users\Spencer\Documents\VSProjects\ChallengePostalCalculator\ChallengePostalCalculator\obj\Debug\ChallengePostalCalculator.pdb

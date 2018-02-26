@@ -1,0 +1,9 @@
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll.config
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.pdb
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Spencer\source\repos\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.pdb

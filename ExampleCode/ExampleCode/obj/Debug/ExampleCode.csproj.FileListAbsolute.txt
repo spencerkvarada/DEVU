@@ -1,0 +1,6 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\bin\ExampleCode.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\bin\ExampleCode.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\bin\ExampleCode.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\obj\Debug\ExampleCode.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\obj\Debug\ExampleCode.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\ExampleCode\ExampleCode\obj\Debug\ExampleCode.pdb

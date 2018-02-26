@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\bin\epicspieschallenge.dll.config
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\bin\epicspieschallenge.dll
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\bin\epicspieschallenge.pdb
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\obj\Debug\epicspieschallenge.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\obj\Debug\epicspieschallenge.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\obj\Debug\epicspieschallenge.dll
+C:\Users\Spencer\Documents\VSProjects\epicspieschallenge\epicspieschallenge\obj\Debug\epicspieschallenge.pdb

@@ -1,0 +1,9 @@
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\bin\DevUChallenge1.dll.config
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\bin\DevUChallenge1.dll
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\bin\DevUChallenge1.pdb
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\obj\Debug\DevUChallenge1.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\obj\Debug\DevUChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\obj\Debug\DevUChallenge1.dll
+C:\Users\Spencer\Documents\VSProjects\DevUChallenge1\DevUChallenge1\obj\Debug\DevUChallenge1.pdb
