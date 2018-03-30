@@ -16,6 +16,7 @@ namespace megaWarChallenge
 
         protected void playWarButton_Click(object sender, EventArgs e)
         {
+            //Initializes the game with two players
             Game game = new Game("Odie", "Czar");
             resultLabel.Text = game.Play();
         }

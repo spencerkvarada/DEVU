@@ -1,0 +1,24 @@
+﻿
+@{
+
+    var title = String.Format("Details About {0} #{1}",
+        Model.ComicTitle,
+        Model.EpisodeNumber);
+
+    ViewBag.Title = title;
+}
+
+@{
+    var characters = Model.Characters.Select(p => p.Name).ToArray();
+    var charactersString = String.Join(", ", "Index");
+}
+
+<h1>@title</h1>
+<h4>Title: @Model.EpisodeTitle</h4>
+<p>
+    <strong>Featuring: </strong> @charactersString
+</p>
+<hr />
+
+@Html.ActionLink("Back to All", "Index")
+

@@ -13,7 +13,7 @@ namespace megaWarChallenge
         public int CardScore()
         {
             int value = 0;
-
+            //setting card values
             switch (this.Type)
             {
                 case "Jack":

@@ -7,3 +7,12 @@ C:\Users\Spencer\Documents\VSProjects\megaWarChallenge\megaWarChallenge\bin\Micr
 C:\Users\Spencer\Documents\VSProjects\megaWarChallenge\megaWarChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Spencer\Documents\VSProjects\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.dll
 C:\Users\Spencer\Documents\VSProjects\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.pdb
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\bin\megaWarChallenge.dll.config
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\bin\megaWarChallenge.dll
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\bin\megaWarChallenge.pdb
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.dll
+C:\Users\Spencer\Documents\GitHub\VisStu3\DEVU\megaWarChallenge\megaWarChallenge\obj\Debug\megaWarChallenge.pdb

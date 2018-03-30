@@ -55,7 +55,7 @@ namespace megaWarChallenge
             Card warCard2 = getCard(secondPlayer);
             getCard(secondPlayer);
             
-            compareCards(firstPlayer, firstPlayer, warCard1, warCard2);
+            compareCards(firstPlayer, secondPlayer, warCard1, warCard2);
         }
 
         private void getWinner(Player player)
