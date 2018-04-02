@@ -1,0 +1,69 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\ApplicationInsights.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\csc.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\vbc.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\KnockoutJS.dll.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\KnockoutJS.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\KnockoutJS.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.pdb
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects-28253081ee22a41ae516fcfa68b4f47e776966f0\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects-28253081ee22a41ae516fcfa68b4f47e776966f0\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.pdb
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\ApplicationInsights.config
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\csc.exe
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\vbc.exe
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\KnockoutJS.dll.config
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\KnockoutJS.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\KnockoutJS.pdb
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Web.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.Web.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.dll
+C:\Users\Spencer\Documents\TechAcademyProjects\Tech-Academy-Projects\VisualStudio\KnockoutJS\KnockoutJS\obj\Debug\KnockoutJS.pdb
